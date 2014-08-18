@@ -1,0 +1,44 @@
+##Please use and update this file whenever you are adding in a new mod for an update!!!
+##It will help Pokemane and GenPage keep track of which files to update to in Solder.
+##Format:
+##Mod Name:
+##  Mod File Name:
+##    Changes, if applicable
+
+
+GrowthCraft:
+  growthcraft-1.7.10-2.1.0-full: 
+    Added Bees
+    Added Fishtraps
+    
+Carpenter's Blocks:
+  carpenter-blocks-1.7.10-3.2.6:
+    3.2.6 fixes a possible crash, not sure if this fixes our issues.
+    
+EnderIO:
+  enderio-1.7.10-2.0-b182:
+    LOTS of fixes, updates and a couple new things.
+
+AsieLib:
+  asielib-1.7.10-0.2.12:
+    A network related memory leak fix
+    
+TConstruct:
+  tconstruct-1.7.10-1.6.0.d39:
+    - Fix autosmelt-interaction not respecting the amount of items created by the smelting-recipe
+    - Many materials have been buffed, including wood and steel
+    - Crafting stations cannot have items pulled from them
+    - Fix blue slime buckets crashing on placement
+    - Pig Iron now has a sizzling block
+    - Fix gravel ore being harvestable without shovel
+    - Obsidian ingots are castble again.
+    
+OpenBlocks:
+  openblocks-1.7.10-1.3-dev431:
+    A couple fixes
+    
+OpenModsLib:
+  openmodslib-1.7.10-0.6-dev224:
+    Minor updates, but keeping updated with OpenBlocks just in case
+    
+    
