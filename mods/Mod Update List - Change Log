@@ -5,6 +5,9 @@
 ##  Mod File Name:
 ##    Changes, if applicable
 
+Big Reactions:
+  bigreactors-1.7.10-0.4.0rc2:
+    Big Reactions Updated to 1.7.10, release candidate, but should still be quite stable.
 
 GrowthCraft:
   growthcraft-1.7.10-2.1.0-full: 
@@ -12,8 +15,8 @@ GrowthCraft:
     Added Fishtraps
     
 Carpenter's Blocks:
-  carpenter-blocks-1.7.10-3.2.6:
-    3.2.6 fixes a possible crash, not sure if this fixes our issues.
+  carpenter-blocks-3.2.5: (Downgrade)
+    Might fix some of Maiden's issues of crashing
     
 EnderIO:
   enderio-1.7.10-2.0-b182:
