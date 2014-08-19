@@ -76,6 +76,9 @@ MineFactory Reloaded:
   minefactoryreloaded-1.7.10-2.8.0RC2-dev574:
     Fixes Auto Anvil Crash on Servers
 
+Minecraft Forge:
+  forge-1.7.10-10.13.0.1207:
+    Update Forge to improve performance and fix various rendering issues
 
 
   
