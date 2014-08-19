@@ -59,3 +59,23 @@ Damage Indictators:
 Simply Jetpacks:
   simplyjetpacks-1.7.10-1.1:
     Some new stuff with jetpacks and redstone arsenal!
+
+Applied Energistics:
+  appliedenergistics-1.7.10-rv1-beta-5:
+    Fixes issues with attuning of P2P Tunnels (And other bugfixes)
+
+Big Reactors:
+  bigreactors-1.7.10-0.4.0rc3:
+    Fixes issues with Turbines not forming correctly on SMP as well as the spontaneous dismantling of Cyanite Reprocessors (O.o)
+
+FastCraft:
+  fastcraft-1.7.10-1.6:
+    Lots of BugFixes
+
+MineFactory Reloaded:
+  minefactoryreloaded-1.7.10-2.8.0RC2-dev574:
+    Fixes Auto Anvil Crash on Servers
+
+
+
+  
