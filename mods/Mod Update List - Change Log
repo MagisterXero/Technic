@@ -80,5 +80,28 @@ Minecraft Forge:
   forge-1.7.10-10.13.0.1207:
     Update Forge to improve performance and fix various rendering issues
 
+Mekanism:
+  mekanism-1.7.10-7.1.0.88:
+    Lots of Optimizations and other fun stuff
 
-  
+Applied Energistics:
+  appliedenergistics-1.7.10-rv1-beta-6:
+    Enhancements with NEI integration
+
+EnderIO:
+  enderio-1.7.10-2.0-b185:
+    Bugfixes
+
+ExtraUtilities:
+  extrautilities-1.7.10-1.1.0h:
+    Bugfixes and a Nerf to the Transfer Node
+
+Nether Ores:
+  netherores-1.7.10-2.3.0RC3-dev85:
+    Retrogen Support!!!!
+
+Reliquary:
+  reliquary-1.7.10-1.2-dev136:
+    Bugfixes and possibly new toys
+
+
