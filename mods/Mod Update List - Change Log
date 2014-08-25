@@ -5,103 +5,90 @@
 ##  Mod File Name:
 ##    Changes, if applicable
 
-Big Reactions:
-  bigreactors-1.7.10-0.4.0rc2:
-    Big Reactions Updated to 1.7.10, release candidate, but should still be quite stable.
-
-GrowthCraft:
-  growthcraft-1.7.10-2.1.0-full: 
-    Added Bees
-    Added Fishtraps
-    
-Carpenter's Blocks:
-  carpenter-blocks-3.2.5: (Downgrade)
-    Might fix some of Maiden's issues of crashing
-    
-EnderIO:
-  enderio-1.7.10-2.0-b182:
-    LOTS of fixes, updates and a couple new things.
-
-AsieLib:
-  asielib-1.7.10-0.2.12:
-    A network related memory leak fix
-    
-TConstruct:
-  tconstruct-1.7.10-1.6.0.d39:
-    - Fix autosmelt-interaction not respecting the amount of items created by the smelting-recipe
-    - Many materials have been buffed, including wood and steel
-    - Crafting stations cannot have items pulled from them
-    - Fix blue slime buckets crashing on placement
-    - Pig Iron now has a sizzling block
-    - Fix gravel ore being harvestable without shovel
-    - Obsidian ingots are castble again.
-    
-OpenBlocks:
-  openblocks-1.7.10-1.3-dev431:
-    A couple fixes
-    
-OpenModsLib:
-  openmodslib-1.7.10-0.6-dev224:
-    Minor updates, but keeping updated with OpenBlocks just in case
-    
-NEI Plugins:
-  NEIPlugins-MC1.7.10-1.1.0.7-unofficial:
-    Unofficial Port
-    
-Inventory Tweaks:
-  inventorytweaks-1.58-147:
-    Even if it is slightly buggy, still worth having over not having... xD
-    
-Damage Indictators:
-  damageindicators-1.7.10-v3.2.0:
-    Please add this! It's better than using WAILA for Mobs.
-
-Simply Jetpacks:
-  simplyjetpacks-1.7.10-1.1:
-    Some new stuff with jetpacks and redstone arsenal!
-
 Applied Energistics:
-  appliedenergistics-1.7.10-rv1-beta-5:
-    Fixes issues with attuning of P2P Tunnels (And other bugfixes)
+	appliedenergistics-1.7.10-rv1-beta-rv13:
+		Honestly, I'm not sure which branch is beta and which is alpha anymore, alpha was last updated on the 12th.
+		So I'm tossing this up for a candidate to update to since it should have bug fixes galore.
 
+Automagy:
+	automagy-1.7.10-0.7:
+		Requirement: Thaumcraft 4.24
+		
+Baubles:
+	baubles-1.7.10-1.0.1.5:
+		Our current baubles is the Vazkii fork, it is not the version we'd need for Thaumcraft.
+		Update to official one listed above.
+		
 Big Reactors:
-  bigreactors-1.7.10-0.4.0rc3:
-    Fixes issues with Turbines not forming correctly on SMP as well as the spontaneous dismantling of Cyanite Reprocessors (O.o)
-
-FastCraft:
-  fastcraft-1.7.10-1.6:
-    Lots of BugFixes
-
-MineFactory Reloaded:
-  minefactoryreloaded-1.7.10-2.8.0RC2-dev574:
-    Fixes Auto Anvil Crash on Servers
-
-Minecraft Forge:
-  forge-1.7.10-10.13.0.1207:
-    Update Forge to improve performance and fix various rendering issues
-
-Mekanism:
-  mekanism-1.7.10-7.1.0.88:
-    Lots of Optimizations and other fun stuff
-
-Applied Energistics:
-  appliedenergistics-1.7.10-rv1-beta-6:
-    Enhancements with NEI integration
+	bigreactors-1.7.10-0.4.0rc5:
+		Dependency: Forge dependency update to 10.13.0.1205.
+		Dependency: CoFHCore dependency update to 3.0.0B5-30. Thanks, mysticdrew!
+		Bugfix: Fuel ejection was duping fuel. This has been fixed.
+		Bugfix: Reactor controller GUI was triggering fuel ejection instead of waste ejection. Fixed.
+		Bugfix: Yellorite Ore texture was improperly sized at 32x32. It is now 16x16, as vanilla textures should be.
+		Bugfix: Cyanite reprocessors were kicking their inputs out of the input slot when distributing blutonium. This has been fixed.
+		Bugfix: requireSteelForIron config was not always being obeyed, depending on mod load order. Fixed.
+		Change: Turbine fluid ports can now only be toggled with wrenches (and wrench-like tools, e.g. Crescent Hammers), not by hand
+		
+Botania:
+	botania-1.7.10-r1.1-104:
+		Too many changes to list. Lots of fixes etc
+		
+Chisel:
+	chisel-1.7.10-1.5.6b:
+		A few fixes for support for things like Marble from project red, etc
+	
+COFH Core:
+	cofh-core-1.7.10-1.0.0b4-24:
+		I... don't know. No change log available?
+		
+COFH Lib:
+	cofhlib-1.7.10-1.0.0b-24:
+		I'm sure there's a reason no change log was included on these two, but I can't imagine what it is.
 
 EnderIO:
-  enderio-1.7.10-2.0-b185:
-    Bugfixes
+	enderio-1.7.10-2.0-b194:
+		A whole slew of bugfixes, and a way to craft obsidian that can contain the wither, yay!
 
-ExtraUtilities:
-  extrautilities-1.7.10-1.1.0h:
-    Bugfixes and a Nerf to the Transfer Node
+Forbidden Magic:
+	forbiddenmagic-pr0.50:
+		Requirement: Thaumcraft 4.2
+		
+Mekanism:
+	mekanism-1.7.10-7.1.0.91:
+		Fixed the evil Bounding Block crash, fixed Dynamic Tank crashing when flowing icon is null
+		A couple crash fixes
+		
+Mobius Core:
+	mobiuscore-1.2.2a-1.7.10:
+		Mobius Core updated for 1.7.10 release, required by Opis.
+		
+Opis:
+	opis-v1.2.2.a-1.7.10:
+		Opis server management/map tool for 1.7.10.
+		Note: Opis is set to a .disabled file by default. This is because we already have a map mod (JourneyMap).
+		Multiple map mods running at the same time is both confusing and just silly. Therefore to use opis, you'd need to enable it client side.
+		
+Redstone Arsenal:
+	redstonearsenal-1.7.10-1.1.0b4-10:
+		Updating to latest COFH Core/Lib.
+		
+Technomancy:
+	technomancy-v.0.8.1-1.7.10
+		Should only require CoFH Core, but it has content from a few other mods.
 
-Nether Ores:
-  netherores-1.7.10-2.3.0RC3-dev85:
-    Retrogen Support!!!!
-
-Reliquary:
-  reliquary-1.7.10-1.2-dev136:
-    Bugfixes and possibly new toys
-
-
+Thaumcraft:
+	thaumcraft-1.7.10-4.2.0.0:
+		1.7.10 Release for Thaumcraft
+		
+Thaumic Tinkerer:
+	thaumictinker-1.7.10-2.5.-155:
+		Not sure where JZTech got the dev build, but this is the public release.
+		
+Thermal Expansion:
+	thermalexpansion-1.7.10-4.0.0b3-13:
+		Fixes a dupe? with glowstone
+		
+Thermal Foundation:
+	thermalfoundation-1.7.10-1.0.0b3-8:
+		Update to lastest CoFHCore Core/Lib
