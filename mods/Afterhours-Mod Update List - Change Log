@@ -31,7 +31,7 @@ Big Reactors:
 		Change: Turbine fluid ports can now only be toggled with wrenches (and wrench-like tools, e.g. Crescent Hammers), not by hand
 		
 Botania:
-	botania-1.7.10-r1.1-104:
+	botania-1.7.10-r1.1-106:
 		Too many changes to list. Lots of fixes etc
 		
 Chisel:
@@ -39,20 +39,24 @@ Chisel:
 		A few fixes for support for things like Marble from project red, etc
 	
 COFH Core:
-	cofh-core-1.7.10-1.0.0b4-24:
+	cofh-core-1.7.10-1.0.0b5-30:
 		I... don't know. No change log available?
 		
 COFH Lib:
-	cofhlib-1.7.10-1.0.0b-24:
+	cofhlib-1.7.10-1.0.0b4-24:
 		I'm sure there's a reason no change log was included on these two, but I can't imagine what it is.
 
 EnderIO:
-	enderio-1.7.10-2.0-b194:
+	enderio-1.7.10-2.0-b196:
 		A whole slew of bugfixes, and a way to craft obsidian that can contain the wither, yay!
 
 Forbidden Magic:
 	forbiddenmagic-pr0.50:
 		Requirement: Thaumcraft 4.2
+		
+Mantle:
+	mantle-1.7.10-0.3.1:
+		Note-- .3.1 of this file is not the same as .3.1-dev172, dev172 is an older file.
 		
 Mekanism:
 	mekanism-1.7.10-7.1.0.91:
@@ -60,11 +64,15 @@ Mekanism:
 		A couple crash fixes
 		
 Mobius Core:
-	mobiuscore-1.2.2a-1.7.10:
+	mobiuscore-1.2.3-1.7.10:
 		Mobius Core updated for 1.7.10 release, required by Opis.
 		
+NEI Plugins:
+	neiplugins-1.7.10-1.1.0.8-unofficial:
+		Updated to support the newer TConstruct version change.
+		
 Opis:
-	opis-v1.2.2.a-1.7.10:
+	opis-v1.2.3-1.7.10:
 		Opis server management/map tool for 1.7.10.
 		Note: Opis is set to a .disabled file by default. This is because we already have a map mod (JourneyMap).
 		Multiple map mods running at the same time is both confusing and just silly. Therefore to use opis, you'd need to enable it client side.
@@ -73,16 +81,24 @@ Redstone Arsenal:
 	redstonearsenal-1.7.10-1.1.0b4-10:
 		Updating to latest COFH Core/Lib.
 		
+TConstruct:
+	tconstruct-1.7.10-1.6.0.d40.1:
+		Several changes, bug fixes and crash related fixes
+		
 Technomancy:
 	technomancy-v.0.8.1-1.7.10
 		Should only require CoFH Core, but it has content from a few other mods.
 
 Thaumcraft:
-	thaumcraft-1.7.10-4.2.0.0:
+	thaumcraft-1.7.10-4.2.0.1:
 		1.7.10 Release for Thaumcraft
+
+Thaumcraft Mob Aspects:
+	thaumcraftmobaspects-1.7.x-2b-17:
+		This is a dev snapshot, but it's confirmed to work with 4.2 TC and 1.7.10.
 		
 Thaumic Tinkerer:
-	thaumictinker-1.7.10-2.5.-155:
+	thaumictinker-1.7.10-2.5.-156:
 		Not sure where JZTech got the dev build, but this is the public release.
 		
 Thermal Expansion:
@@ -92,3 +108,7 @@ Thermal Expansion:
 Thermal Foundation:
 	thermalfoundation-1.7.10-1.0.0b3-8:
 		Update to lastest CoFHCore Core/Lib
+
+Waila:
+	waila-1.5.3a-1.7.10:
+		A few render fixes or tooltip fixes that were previously screwed up.
