@@ -31,8 +31,10 @@ Big Reactors:
 		Change: Turbine fluid ports can now only be toggled with wrenches (and wrench-like tools, e.g. Crescent Hammers), not by hand
 		
 Botania:
-	botania-1.7.10-r1.1-106:
-		Too many changes to list. Lots of fixes etc
+	botania-1.7.10-r1.2-110:
+		Added the ability to customize the wings the Flugel Tiara gives you, using Quartz. Confirmed, Botania is a cosplay mod now.
+		Fixed Sparks making pools losing mana even if there's no place for it to go.
+		Fixed wings' rendering being affected by the color of the item being held. 
 		
 Chisel:
 	chisel-1.7.10-1.5.6b:
@@ -49,6 +51,9 @@ COFH Lib:
 EnderIO:
 	enderio-1.7.10-2.0-b196:
 		A whole slew of bugfixes, and a way to craft obsidian that can contain the wither, yay!
+Flaxbeards Steam Power:
+	flaxbeards-steam-power-1.7.10-0.26.0
+		Too many to list. Alot of new content.
 
 Forbidden Magic:
 	forbiddenmagic-pr0.50:
