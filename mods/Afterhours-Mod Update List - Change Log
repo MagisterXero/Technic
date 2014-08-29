@@ -20,15 +20,10 @@ Baubles:
 		Update to official one listed above.
 		
 Big Reactors:
-	bigreactors-1.7.10-0.4.0rc5:
-		Dependency: Forge dependency update to 10.13.0.1205.
-		Dependency: CoFHCore dependency update to 3.0.0B5-30. Thanks, mysticdrew!
-		Bugfix: Fuel ejection was duping fuel. This has been fixed.
-		Bugfix: Reactor controller GUI was triggering fuel ejection instead of waste ejection. Fixed.
-		Bugfix: Yellorite Ore texture was improperly sized at 32x32. It is now 16x16, as vanilla textures should be.
-		Bugfix: Cyanite reprocessors were kicking their inputs out of the input slot when distributing blutonium. This has been fixed.
-		Bugfix: requireSteelForIron config was not always being obeyed, depending on mod load order. Fixed.
-		Change: Turbine fluid ports can now only be toggled with wrenches (and wrench-like tools, e.g. Crescent Hammers), not by hand
+	bigreactors-1.7.10-0.4.0rc8:
+		This is a single-line-of-code emergency update, as rc7 more or less broke the entire mod. (Oops.) 
+		Power taps, fluid ports and access ports will now properly recognize and connect to the appropriate 
+		other blocks - energy conduits, pipes, etc.
 		
 Botania:
 	botania-1.7.10-r1.2-110:
@@ -41,11 +36,11 @@ Chisel:
 		A few fixes for support for things like Marble from project red, etc
 	
 COFH Core:
-	cofh-core-1.7.10-1.0.0b5-30:
+	cofh-core-1.7.10-1.0.0b6-32:
 		I... don't know. No change log available?
 		
 COFH Lib:
-	cofhlib-1.7.10-1.0.0b4-24:
+	cofhlib-1.7.10-1.0.0b6-26:
 		I'm sure there's a reason no change log was included on these two, but I can't imagine what it is.
 
 EnderIO:
@@ -81,6 +76,10 @@ Opis:
 		Opis server management/map tool for 1.7.10.
 		Note: Opis is set to a .disabled file by default. This is because we already have a map mod (JourneyMap).
 		Multiple map mods running at the same time is both confusing and just silly. Therefore to use opis, you'd need to enable it client side.
+
+Project Red:
+	projectred-1.7.19-4.4.8-47:
+		FIX: Modular dependency on World
 		
 Redstone Arsenal:
 	redstonearsenal-1.7.10-1.1.0b4-10:
@@ -107,8 +106,8 @@ Thaumic Tinkerer:
 		Not sure where JZTech got the dev build, but this is the public release.
 		
 Thermal Expansion:
-	thermalexpansion-1.7.10-4.0.0b3-13:
-		Fixes a dupe? with glowstone
+	thermalexpansion-1.7.10-4.0.0b5-13:
+		no changelog
 		
 Thermal Foundation:
 	thermalfoundation-1.7.10-1.0.0b3-8:
