@@ -25,7 +25,7 @@ Big Reactors:
 		other blocks - energy conduits, pipes, etc.
 		
 Botania:
-	botania-1.7.10-r1.2-111:
+	botania-1.7.10-r1.2-112:
 		Added the ability to customize the wings the Flugel Tiara gives you, using Quartz. Confirmed, Botania is a cosplay mod now.
 		Fixed Sparks making pools losing mana even if there's no place for it to go.
 		Fixed wings' rendering being affected by the color of the item being held. 
@@ -43,15 +43,15 @@ COFH Lib:
 		I'm sure there's a reason no change log was included on these two, but I can't imagine what it is.
 
 EnderIO:
-	enderio-1.7.10-2.0.3.210:
+	enderio-1.7.10-2.0.3.211:
 		A whole slew of bugfixes, and a way to craft obsidian that can contain the wither, yay!
 
 Fastcraft:
-	fastcraft-1.7.10-1.7:
+	fastcraft-1.7.10-1.8:
 		A few more client side improvements and a lighting fix
 		
 Flaxbeards Steam Power:
-	flaxbeards-steam-power-1.7.10-0.26.1
+	flaxbeards-steam-power-1.7.10-0.26.2
 		Too many to list. Alot of new content.
 
 Forbidden Magic:
@@ -114,11 +114,11 @@ Thaumcraft Mob Aspects:
 		Once it is installed, I'll go around and retro add aspects to mobs that don't have them.
 
 Thaumic Energistics:
-	thaumicenergistics1.7.10-0.6.4b:
+	thaumicenergistics1.7.10-0.6.5b:
 		Interesting mod for AE2 integration. We'll see how it is?
 		
 Thaumic Tinkerer:
-	thaumictinker-1.7.10-2.5.-157:
+	thaumictinker-1.7.10-2.5.-158:
 		Not sure where JZTech got the dev build, but this is the public release.
 		
 Thermal Expansion:
@@ -132,3 +132,7 @@ Thermal Foundation:
 Waila:
 	waila-1.5.3a-1.7.10:
 		A few render fixes or tooltip fixes that were previously screwed up.
+
+Waila Harvestability:
+	wailaharvestability-1.7.x-1.1.0:
+		Silk touchability and shear ability
