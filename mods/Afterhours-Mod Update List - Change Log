@@ -95,6 +95,10 @@ Project Red:
 Redstone Arsenal:
 	redstonearsenal-1.7.10-1.1.0b4-10:
 		Updating to latest COFH Core/Lib.
+
+Solar Expansion:
+	solarexpansion-1.7.10-1.1a:
+		Added a nifty, hopefully balanced, solar generation mod. Could be useful for removing clutter?
 		
 TConstruct:
 	tconstruct-1.7.10-1.6.0.d40.1:
