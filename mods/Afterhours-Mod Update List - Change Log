@@ -25,7 +25,7 @@ Big Reactors:
 		other blocks - energy conduits, pipes, etc.
 		
 Botania:
-	botania-1.7.10-r1.2-112:
+	botania-1.7.10-r1.2-113:
 		Added the ability to customize the wings the Flugel Tiara gives you, using Quartz. Confirmed, Botania is a cosplay mod now.
 		Fixed Sparks making pools losing mana even if there's no place for it to go.
 		Fixed wings' rendering being affected by the color of the item being held. 
@@ -46,6 +46,10 @@ EnderIO:
 	enderio-1.7.10-2.0.3.211:
 		A whole slew of bugfixes, and a way to craft obsidian that can contain the wither, yay!
 
+Factorization:
+	factorization-1.7.10-0.8.88:
+		Bug fixes and a Wrath lamp recipe I think
+		
 Fastcraft:
 	fastcraft-1.7.10-1.8:
 		A few more client side improvements and a lighting fix
@@ -62,6 +66,10 @@ Inventory Tweaks:
 	inventorytweaks-1.7.10-1.59-dev153:
 		Fixes! Maybe.
 		
+JourneyMap:
+	Removed due to Opis:
+		Please remove JourneyMap from the list of mods to install. Opis allows us to see more useful info as well as the map too.
+		
 Mantle:
 	mantle-1.7.10-0.3.1:
 		Note-- .3.1 of this file is not the same as .3.1-dev172, dev172 is an older file.
@@ -69,15 +77,12 @@ Mantle:
 Minetweaker:
 	minetweaker-1.7.10-3.0.8B:
 		Getting this in here in other to fix some recipes, hopefully.
+		Added in Custom Recipes, fixing inability to create Cake and Dynamic Tanks
 		
 Mobius Core:
 	mobiuscore-1.2.3-1.7.10:
 		Mobius Core updated for 1.7.10 release, required by Opis.
 
-Modtweaker:
-	modtweaker-1.7.10-0.5d:
-		Getting this in here in other to fix some recipes, hopefully.
-		
 NEI Plugins:
 	neiplugins-1.7.10-1.1.0.8-unofficial:
 		Updated to support the newer TConstruct version change.
