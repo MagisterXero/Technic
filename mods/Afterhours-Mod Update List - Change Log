@@ -6,18 +6,17 @@
 ##    Changes, if applicable
 
 Applied Energistics:
-	appliedenergistics-1.7.10-rv1-beta-rv13:
+	appliedenergistics-1.7.10-rv1-beta-rv19:
 		Honestly, I'm not sure which branch is beta and which is alpha anymore, alpha was last updated on the 12th.
 		So I'm tossing this up for a candidate to update to since it should have bug fixes galore.
 
 Automagy:
-	automagy-1.7.10-0.7:
-		Requirement: Thaumcraft 4.24
+	automagy-1.7.10-0.8.1:
+		Requirement: Thaumcraft 4.2.0.1
 		
 Baubles:
-	baubles-1.7.10-1.0.1.5:
-		Our current baubles is the Vazkii fork, it is not the version we'd need for Thaumcraft.
-		Update to official one listed above.
+	baubles-1.7.10-1.0.1.7:
+		A few fixes and tweaks
 		
 Big Reactors:
 	bigreactors-1.7.10-0.4.0rc8:
@@ -26,15 +25,15 @@ Big Reactors:
 		other blocks - energy conduits, pipes, etc.
 		
 Botania:
-	botania-1.7.10-r1.2-110:
+	botania-1.7.10-r1.2-113:
 		Added the ability to customize the wings the Flugel Tiara gives you, using Quartz. Confirmed, Botania is a cosplay mod now.
 		Fixed Sparks making pools losing mana even if there's no place for it to go.
 		Fixed wings' rendering being affected by the color of the item being held. 
+
+Carpenter Blocks:
+	carpenter-blocks-1.7.10-3.2.7R2:
+		Possible fix for the lag with rendering/etc
 		
-Chisel:
-	chisel-1.7.10-1.5.6b:
-		A few fixes for support for things like Marble from project red, etc
-	
 COFH Core:
 	cofh-core-1.7.10-1.0.0b6-32:
 		I... don't know. No change log available?
@@ -44,29 +43,46 @@ COFH Lib:
 		I'm sure there's a reason no change log was included on these two, but I can't imagine what it is.
 
 EnderIO:
-	enderio-1.7.10-2.0-b196:
+	enderio-1.7.10-2.0.3.211:
 		A whole slew of bugfixes, and a way to craft obsidian that can contain the wither, yay!
+
+Factorization:
+	factorization-1.7.10-0.8.88:
+		Bug fixes and a Wrath lamp recipe I think
+		
+Fastcraft:
+	fastcraft-1.7.10-1.8:
+		A few more client side improvements and a lighting fix
+		
 Flaxbeards Steam Power:
-	flaxbeards-steam-power-1.7.10-0.26.0
+	flaxbeards-steam-power-1.7.10-0.26.2
 		Too many to list. Alot of new content.
 
 Forbidden Magic:
-	forbiddenmagic-pr0.50:
-		Requirement: Thaumcraft 4.2
+	forbiddenmagic-1.7.10-.0.5.1:
+		Requirement: Thaumcraft 4.2.0.1
+
+Inventory Tweaks:
+	inventorytweaks-1.7.10-1.59-dev153:
+		Fixes! Maybe.
+		
+JourneyMap:
+	Removed due to Opis:
+		Please remove JourneyMap from the list of mods to install. Opis allows us to see more useful info as well as the map too.
 		
 Mantle:
 	mantle-1.7.10-0.3.1:
 		Note-- .3.1 of this file is not the same as .3.1-dev172, dev172 is an older file.
-		
-Mekanism:
-	mekanism-1.7.10-7.1.0.91:
-		Fixed the evil Bounding Block crash, fixed Dynamic Tank crashing when flowing icon is null
-		A couple crash fixes
+
+Minetweaker:
+	minetweaker-1.7.10-3.0.8B:
+		Getting this in here in other to fix some recipes, hopefully.
+		Added in Custom Recipes, fixing inability to create Cake and Dynamic Tanks
 		
 Mobius Core:
 	mobiuscore-1.2.3-1.7.10:
 		Mobius Core updated for 1.7.10 release, required by Opis.
-		
+
 NEI Plugins:
 	neiplugins-1.7.10-1.1.0.8-unofficial:
 		Updated to support the newer TConstruct version change.
@@ -84,6 +100,10 @@ Project Red:
 Redstone Arsenal:
 	redstonearsenal-1.7.10-1.1.0b4-10:
 		Updating to latest COFH Core/Lib.
+
+Solar Flux:
+	solarflux-1.7.10-0.4b:
+		Added a nifty, hopefully balanced, solar generation mod. Could be useful for removing clutter?
 		
 TConstruct:
 	tconstruct-1.7.10-1.6.0.d40.1:
@@ -100,9 +120,14 @@ Thaumcraft:
 Thaumcraft Mob Aspects:
 	thaumcraftmobaspects-1.7.x-2b-17:
 		This is a dev snapshot, but it's confirmed to work with 4.2 TC and 1.7.10.
+		Once it is installed, I'll go around and retro add aspects to mobs that don't have them.
+
+Thaumic Energistics:
+	thaumicenergistics1.7.10-0.6.5b:
+		Interesting mod for AE2 integration. We'll see how it is?
 		
 Thaumic Tinkerer:
-	thaumictinker-1.7.10-2.5.-156:
+	thaumictinker-1.7.10-2.5.-158:
 		Not sure where JZTech got the dev build, but this is the public release.
 		
 Thermal Expansion:
@@ -116,3 +141,7 @@ Thermal Foundation:
 Waila:
 	waila-1.5.3a-1.7.10:
 		A few render fixes or tooltip fixes that were previously screwed up.
+
+Waila Harvestability:
+	wailaharvestability-1.7.x-1.1.0:
+		Silk touchability and shear ability
