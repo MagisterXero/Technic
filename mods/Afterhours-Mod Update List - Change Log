@@ -6,7 +6,7 @@
 ##    Changes, if applicable
 
 Applied Energistics:
-	appliedenergistics-1.7.10-rv1-beta-rv20:
+	appliedenergistics-1.7.10-rv1-beta-rv27:
 		Honestly, I'm not sure which branch is beta and which is alpha anymore, alpha was last updated on the 12th.
 		So I'm tossing this up for a candidate to update to since it should have bug fixes galore.
 
@@ -51,8 +51,8 @@ Factorization:
 		Bug fixes and a Wrath lamp recipe I think
 		
 Fastcraft:
-	Removed:
-		Causes client crash.
+	fastcraft-1.9:
+		hopefully client crash was fixed.
 		
 Flaxbeards Steam Power:
 	flaxbeards-steam-power-1.7.10-0.26.2
@@ -123,7 +123,7 @@ Thaumcraft Mob Aspects:
 		Once it is installed, I'll go around and retro add aspects to mobs that don't have them.
 
 Thaumic Energistics:
-	thaumicenergistics1.7.10-0.6.6b:
+	thaumicenergistics1.7.10-0.6.7b:
 		Interesting mod for AE2 integration. We'll see how it is?
 		
 Thaumic Tinkerer:
