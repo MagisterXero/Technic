@@ -145,3 +145,7 @@ Waila:
 Waila Harvestability:
 	wailaharvestability-1.7.x-1.1.0:
 		Silk touchability and shear ability
+		
+WarpBook:
+	warpbook-1.7.10-2.0.34:
+		Fixes issues with world not loading after warp and some inventory issues.
