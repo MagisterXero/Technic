@@ -46,6 +46,10 @@ EnderIO:
 	enderio-1.7.10-2.0.3.218:
 		A whole slew of bugfixes, and a way to craft obsidian that can contain the wither, yay!
 
+ExtraCells:
+	extracells-1.7.10-2.1.11:
+		updated for Rv1 AE2
+		
 Factorization:
 	factorization-1.7.10-0.8.88:
 		Bug fixes and a Wrath lamp recipe I think
@@ -145,3 +149,7 @@ Waila:
 Waila Harvestability:
 	wailaharvestability-1.7.x-1.1.0:
 		Silk touchability and shear ability
+		
+WarpBook:
+	warpbook-1.7.10-2.0.34:
+		Fixes issues with world not loading after warp and some inventory issues.
