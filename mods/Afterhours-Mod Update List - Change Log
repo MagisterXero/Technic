@@ -6,150 +6,53 @@
 ##    Changes, if applicable
 
 Applied Energistics:
-	appliedenergistics-1.7.10-rv1-beta-rv27:
-		Honestly, I'm not sure which branch is beta and which is alpha anymore, alpha was last updated on the 12th.
-		So I'm tossing this up for a candidate to update to since it should have bug fixes galore.
+	appliedenergistics-1.7.10-rv1-stable-1:
+		About 11 verions of updates worth of bugfixes and other things.
 
 Automagy:
-	automagy-1.7.10-0.8.1:
-		Requirement: Thaumcraft 4.2.0.1
-		
-Baubles:
-	baubles-1.7.10-1.0.1.7:
-		A few fixes and tweaks
-		
-Big Reactors:
-	bigreactors-1.7.10-0.4.0rc8:
-		This is a single-line-of-code emergency update, as rc7 more or less broke the entire mod. (Oops.) 
-		Power taps, fluid ports and access ports will now properly recognize and connect to the appropriate 
-		other blocks - energy conduits, pipes, etc.
-		
-Botania:
-	botania-1.7.10-r1.2-116:
-		Added the ability to customize the wings the Flugel Tiara gives you, using Quartz. Confirmed, Botania is a cosplay mod now.
-		Fixed Sparks making pools losing mana even if there's no place for it to go.
-		Fixed wings' rendering being affected by the color of the item being held. 
-
-Carpenter Blocks:
-	carpenter-blocks-1.7.10-3.2.7R2:
-		Possible fix for the lag with rendering/etc
-		
-COFH Core:
-	cofh-core-1.7.10-1.0.0b6-32:
-		I... don't know. No change log available?
-		
-COFH Lib:
-	cofhlib-1.7.10-1.0.0b6-26:
-		I'm sure there's a reason no change log was included on these two, but I can't imagine what it is.
+	automagy-1.7.10-0.10.2:
+		New content, bugfixes
 
 EnderIO:
-	enderio-1.7.10-2.0.3.218:
-		A whole slew of bugfixes, and a way to craft obsidian that can contain the wither, yay!
+	enderio-1.7.10-2.1.0.dev32:
+		A few more content related items, and RF-Only update.
 
 ExtraCells:
 	extracells-1.7.10-2.1.11:
 		updated for Rv1 AE2
 		
 Factorization:
-	factorization-1.7.10-0.8.88:
-		Bug fixes and a Wrath lamp recipe I think
-		
-Fastcraft:
-	fastcraft-1.9:
-		hopefully client crash was fixed.
-		
-Flaxbeards Steam Power:
-	flaxbeards-steam-power-1.7.10-0.26.2
-		Too many to list. Alot of new content.
+	factorization-1.7.10-0.8.88.1:
+		Bug fixes 
 
 Forbidden Magic:
-	forbiddenmagic-1.7.10-.0.5.1:
+	forbiddenmagic-1.7.10-.0.52:
 		Requirement: Thaumcraft 4.2.0.1
 
-Inventory Tweaks:
-	inventorytweaks-1.7.10-1.59-dev153:
-		Fixes! Maybe.
-		
-JourneyMap:
-	Removed due to Opis:
-		Please remove JourneyMap from the list of mods to install. Opis allows us to see more useful info as well as the map too.
-		
-Mantle:
-	mantle-1.7.10-0.3.1:
-		Note-- .3.1 of this file is not the same as .3.1-dev172, dev172 is an older file.
-
-Minetweaker:
-	minetweaker-1.7.10-3.0.8B:
-		Getting this in here in other to fix some recipes, hopefully.
-		Added in Custom Recipes, fixing inability to create Cake and Dynamic Tanks
-		
-Mobius Core:
-	mobiuscore-1.2.3-1.7.10:
-		Mobius Core updated for 1.7.10 release, required by Opis.
-
-NEI Plugins:
-	neiplugins-1.7.10-1.1.0.8-unofficial:
-		Updated to support the newer TConstruct version change.
-		
-Opis:
-	opis-v1.2.3-1.7.10:
-		Opis server management/map tool for 1.7.10.
-		Note: Opis is set to a .disabled file by default. This is because we already have a map mod (JourneyMap).
-		Multiple map mods running at the same time is both confusing and just silly. Therefore to use opis, you'd need to enable it client side.
+Mekanism:
+	mekanism-1.7.10-7.1.1.105:
+		Bugfixes
 
 Project Red:
-	projectred-1.7.19-4.4.8-47:
-		FIX: Modular dependency on World
-		
-Redstone Arsenal:
-	redstonearsenal-1.7.10-1.1.0b4-10:
-		Updating to latest COFH Core/Lib.
+	projectred-1.7.19-4.4.9.49:
+		Bugfixes
 
-Solar Flux:
-	solarflux-1.7.10-0.4b:
-		Added a nifty, hopefully balanced, solar generation mod. Could be useful for removing clutter?
+Railcraft:
+	railcraft-1.7.10-9.3.2.0:
+		New Content
 		
 TConstruct:
-	tconstruct-1.7.10-1.6.0.d40.1:
+	tconstruct-1.7.10-1.7.0-1.7.0d2:
 		Several changes, bug fixes and crash related fixes
+
+TMechworks:
+	TMechworks-1.7.10-0.2.9:
+		Bugfixes
 		
-Technomancy:
-	technomancy-v.0.8.1-1.7.10
-		Should only require CoFH Core, but it has content from a few other mods.
-
-Thaumcraft:
-	thaumcraft-1.7.10-4.2.0.1:
-		1.7.10 Release for Thaumcraft
-
-Thaumcraft Mob Aspects:
-	thaumcraftmobaspects-1.7.x-2b-17:
-		This is a dev snapshot, but it's confirmed to work with 4.2 TC and 1.7.10.
-		Once it is installed, I'll go around and retro add aspects to mobs that don't have them.
-
 Thaumic Energistics:
-	thaumicenergistics1.7.10-0.6.7b:
+	thaumicenergistics1.7.10-0.6.10b:
 		Interesting mod for AE2 integration. We'll see how it is?
-		
-Thaumic Tinkerer:
-	thaumictinker-1.7.10-2.5.-158:
-		Not sure where JZTech got the dev build, but this is the public release.
-		
-Thermal Expansion:
-	thermalexpansion-1.7.10-4.0.0b5-13:
-		no changelog
-		
-Thermal Foundation:
-	thermalfoundation-1.7.10-1.0.0b3-8:
-		Update to lastest CoFHCore Core/Lib
 
-Waila:
-	waila-1.5.3a-1.7.10:
-		A few render fixes or tooltip fixes that were previously screwed up.
-
-Waila Harvestability:
-	wailaharvestability-1.7.x-1.1.0:
-		Silk touchability and shear ability
-		
 WarpBook:
 	warpbook-1.7.10-2.0.34:
 		Fixes issues with world not loading after warp and some inventory issues.
