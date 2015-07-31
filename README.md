@@ -1,4 +1,4 @@
-Technic API powered repo for PageFortress
+Technic API powered repo for Solder
 
 ===============
-AfterHours - Maintained by Pokemane and GenPage
+MagisterXero - Servers Managed by MX & Co.
