@@ -80,3 +80,5 @@ function filterNonDir($path) {
   # If path doesn't exist, take it out of the array
   return is_dir($path) ? $path:FALSE;
 }
+
+?>
