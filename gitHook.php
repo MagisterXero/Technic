@@ -8,7 +8,7 @@ $aliases = array(
   //,"clients" => array( "client1","client2","client3","client4" )
 );
 // Do you want a log file with web hook posts?
-$log = TRUE;
+$log = FALSE;
 # ===========================================================================
 # ==== No Humans Below. Only Honey Badgers. http://youtu.be/4r7wHMg5Yjg =====
 # ===========================================================================
